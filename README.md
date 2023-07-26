@@ -1,7 +1,5 @@
 # Matplotlib-Homework-5
- Module 4 Homework Challenge
-
-
+Module 5 Homework Challenge
 A script that transforms information from "mouse_metadata.csv" file and  "study_results.csv".
 
 ## Description
